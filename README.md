@@ -8,4 +8,4 @@
 ## Sites:
 * [Projeto-Android](https://anthony-ricardox.github.io/html-css/desafios/desafio-10/android.html)
 * [Astronauta](https://anthony-ricardox.github.io/html-css/desafios/desafio11-astronauta)
-*  [Desafio-005](https://anthony-ricardox.github.io/html-css/desafios/desafio-005)
+* [Desafio-005](https://anthony-ricardox.github.io/html-css/desafios/desafio-005)
