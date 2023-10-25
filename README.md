@@ -7,4 +7,3 @@
 
 ## Sites:
 * [Projeto-Android](https://anthony-ricardox.github.io/html-css/desafios/desafio-10/android.html)
-* [Desafio-005](https://anthony-ricardox.github.io/html-css/desafios/desafio-005)
