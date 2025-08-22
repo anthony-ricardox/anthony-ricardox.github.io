@@ -8,4 +8,4 @@
 ## Sites:
 * [Projeto-Android](https://anthony-ricardox.github.io/html-css/desafios/desafio-10/android.html)
 * [Projeto-Cordel](https://anthony-ricardox.github.io/projeto-cordel/)
-* [Teste-portifólio](https://anthony-ricardox.github.io/portif-lio/index.html)
+* [Potifólio](https://anthony-ricardox.github.io/portifolio/)
